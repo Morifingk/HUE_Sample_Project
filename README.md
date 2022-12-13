@@ -6,7 +6,7 @@ This project is focused on gathering data on the top digital platforms around wi
 
 In this project I used AWS to connect to my postgreSQL database. I have used technical skills such as the python coding language to code the language that is used to connect my data to the database in postgresSQL. Throughout my summary I will further explain my process in gathering and cleaning up up my data.
 
-##Questions that are provided to HUE team that could further their standings within their rankings within telehealth platforms:
+## Questions :
 Amongst comptitors what sets you apart? 
 What are the companies strenghts and weaknesses? 
 How can the company amplify it's strenghths and make their weaknesses play in their favor? 

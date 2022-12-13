@@ -37,5 +37,10 @@ In this project I used AWS to connect to my postgreSQL database. I have used tec
 
 The EDA to the Jupyter notebook can be accessed here
 
+The following data process cleaning was performed here 
+
+irrelevant columns were dropped: 
+
+
 
 

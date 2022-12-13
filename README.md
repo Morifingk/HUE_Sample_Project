@@ -14,7 +14,7 @@ In this project I used AWS to connect to my postgreSQL database. I have used tec
 
       -How can the company amplify it's strenghths and make their weaknesses play in their favor? 
 
-# Resources: 
+## Resources: 
 [Crunchbase](https://www.crunchbase.com/organization/health-in-her-hue)
 
 ## Languages: 
@@ -32,8 +32,8 @@ In this project I used AWS to connect to my postgreSQL database. I have used tec
    - Psycopg2
    - SciKitLearn
 
-# Exploratory Data Analysis: 
-## Data Cleaning
+## Exploratory Data Analysis: 
+### Data Cleaning
 
 The EDA to the Jupyter notebook can be accessed here
 

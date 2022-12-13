@@ -11,19 +11,19 @@ Amongst comptitors what sets you apart?
 What are the companies strenghts and weaknesses? 
 How can the company amplify it's strenghths and make their weaknesses play in their favor? 
 
-#Resources: 
+# Resources: 
 
-#Languages: 
+# Languages: 
 Python 
 HTML
 
-#Software and Tools: 
+# Software and Tools: 
 Jupyter notebook
 AWS(Amazon Web Services) 
 PostgresSQL
 pgAdmin 
 
-#Exploratory Data Analysis: 
+# xploratory Data Analysis: 
 
 
 

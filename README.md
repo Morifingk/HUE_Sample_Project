@@ -37,10 +37,13 @@ In this project I used AWS to connect to my postgreSQL database. I have used tec
 
 The EDA to the Jupyter notebook can be accessed here
 
-The following data process cleaning was performed here 
+The following data process cleaning was performed here where you will see the process and the result of the product
 
-irrelevant columns were dropped: 
+Irrelevant columns were dropped: 
+<img width="995" alt="Screen Shot 2022-12-13 at 3 11 02 PM" src="https://user-images.githubusercontent.com/104086409/207434103-78dc6ec5-fe99-40e6-842d-5b1fb04e2705.png">
+<img width="1101" alt="Screen Shot 2022-12-13 at 3 11 28 PM" src="https://user-images.githubusercontent.com/104086409/207434183-57d37bb1-9854-461a-802e-326e266ac29f.png">
 
-
+Changed the data format of the CB Rank column (removed commas so that the data could be properly read): 
+<img width="1005" alt="Screen Shot 2022-12-13 at 3 11 59 PM" src="https://user-images.githubusercontent.com/104086409/207434269-8f21ff00-30c4-4a99-84bf-385501fd3ead.png">
 
 

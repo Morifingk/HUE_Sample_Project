@@ -49,4 +49,12 @@ Irrelevant columns were dropped:
 <img width="995" alt="Screen Shot 2022-12-13 at 3 11 02 PM" src="https://user-images.githubusercontent.com/104086409/207434103-78dc6ec5-fe99-40e6-842d-5b1fb04e2705.png">
 <img width="1101" alt="Screen Shot 2022-12-13 at 3 11 28 PM" src="https://user-images.githubusercontent.com/104086409/207434183-57d37bb1-9854-461a-802e-326e266ac29f.png">
 
+## Database: 
+
+ERD with Relationships: 
+<img width="938" alt="QuickDBD of the 3 tables" src="https://user-images.githubusercontent.com/104086409/207442650-126ad6d6-29cf-43ec-9773-dcfbfc087d57.png">
+
+Database storing static data that was used during the project: 
+<img width="800" alt="Data read in from imported HUE data" src="https://user-images.githubusercontent.com/104086409/207442760-ce747aae-e0f0-46c1-8fca-71f44c2ac8ba.png">
+
 

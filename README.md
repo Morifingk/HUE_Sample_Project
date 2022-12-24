@@ -57,6 +57,13 @@ ERD with Relationships:
 Database storing static data that was used during the project: 
 <img width="800" alt="Data read in from imported HUE data" src="https://user-images.githubusercontent.com/104086409/207442760-ce747aae-e0f0-46c1-8fca-71f44c2ac8ba.png">
 
+Org_rankings table that is storing data specific to this table: 
+<img width="891" alt="Screenshot 2022-12-23 at 8 26 00 PM" src="https://user-images.githubusercontent.com/104086409/209416783-e693dc3d-3021-4f6d-971c-4731cf324dac.png">
+
+Org_descriptions table that is storing data specific to this table: 
+<img width="1084" alt="Screenshot 2022-12-23 at 8 27 07 PM" src="https://user-images.githubusercontent.com/104086409/209416799-0013ab23-b656-4848-bcee-437b2883f4c1.png">
+
+
 ## Roadblocks
    - connecting the AWS database to postgreSQL at times was a hassle because that was needed in order for me the public to view and access my work given that I provide the necessary credentials.
    - importing the csv data of the top digital platforms proved to slow down the process of getting the project down because the integers contained a comma which had to be removed in order for the data to be properly read

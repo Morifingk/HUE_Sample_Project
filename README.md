@@ -64,8 +64,13 @@ Org_descriptions table that is storing data specific to this table:
 <img width="1084" alt="Screenshot 2022-12-23 at 8 27 07 PM" src="https://user-images.githubusercontent.com/104086409/209416799-0013ab23-b656-4848-bcee-437b2883f4c1.png">
 
 
-## Roadblocks
+## Roadblocks:
    - connecting the AWS database to postgreSQL at times was a hassle because that was needed in order for me the public to view and access my work given that I provide the necessary credentials.
    - importing the csv data of the top digital platforms proved to slow down the process of getting the project down because the integers contained a comma which had to be removed in order for the data to be properly read
+   
+##How and What I could do with more insights:
+   - With more access to HUE insights I would be able to help the company gain a deeper understanding of how their audience thinks and feels, especially about how the digital platform has benefitted them. 
+   - With good quality data my conclusions and results would be more in tune with the current trajectory of the company
+   - Lastly, consumer insights would be able to help the company find what works best and what can be improved for a better user experience and consumer journey. If any updates were to occur, the insights from the consumer data would be used to help improve the digital platform.
    
 ##### By: Morifing Koné

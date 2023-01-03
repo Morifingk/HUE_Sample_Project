@@ -63,6 +63,8 @@ Org_rankings table that is storing data specific to this table:
 Org_descriptions table that is storing data specific to this table: 
 <img width="1084" alt="Screenshot 2022-12-23 at 8 27 07 PM" src="https://user-images.githubusercontent.com/104086409/209416799-0013ab23-b656-4848-bcee-437b2883f4c1.png">
 
+## Visualization:
+Visualizations to the current digital platform rankings can be found [here](https://public.tableau.com/app/profile/morifing.kon./viz/Digitalplaformrankings/Digitalplatformrankings?publish=yes)
 
 ## Roadblocks:
    - connecting the AWS database to postgreSQL at times was a hassle because that was needed in order for me the public to view and access my work given that I provide the necessary credentials.
